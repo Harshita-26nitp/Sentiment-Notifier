@@ -29,3 +29,9 @@ Timestamp,Journal,Sentiment,Confidence (%)
 2025-11-11 17:26:46,I am happy,Positive,97.92
 2025-11-11 17:33:17,I am happy,Positive,97.92
 2025-11-11 17:33:38,I am happy,Positive,97.92
+2025-11-13 02:27:27,I AM SAD,Negative,91.76
+2025-11-13 02:31:48,I am sad,Negative,92.01
+2025-11-13 02:34:43,I am sad,Negative,92.01
+2025-11-13 02:45:31,I am sad,Negative,92.01
+2025-11-13 03:49:35,I am sad,Negative,92.01
+2025-11-13 04:04:54,John is extremely sad,Negative,96.48
